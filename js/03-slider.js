@@ -56,4 +56,4 @@ next.addEventListener("click", nextSlide);
 prev.addEventListener("click", prevSlide);
 
 //automatisation
-setInterval(nextSlide, 2500);
+// setInterval(nextSlide, 2500);
